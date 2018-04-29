@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "583370116550",
+    "firebase_url": "https://shreddedapp-bdf3a.firebaseio.com",
+    "project_id": "shreddedapp-bdf3a",
+    "storage_bucket": "shreddedapp-bdf3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583370116550:android:f4178ba0f711b2cb",
+        "android_client_info": {
+          "package_name": "com.example.a20076515"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583370116550-8gfudtnkog3kahvpgt6sjis9ik678dmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbEJoPkKuvb_9joA384PGGYo1VSjsXdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

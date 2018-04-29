@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnSave" type="id">save</item>
+    <item name="btnDelete" type="id">delete</item>
+    <item name="editable_item" type="id">edit</item>
+    <item name="buttonSignin" type="id" />
+    <item name="textViewSignUp" type="id" />
+</resources>
